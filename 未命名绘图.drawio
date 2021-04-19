@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T07:20:23.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="q11HLmLaeYGiC1OXUtb6" version="14.6.1" type="github">
-  <diagram id="aJE0ZCba9fngmLQNZbVi" name="企业中台">
+<mxfile host="app.diagrams.net" modified="2021-04-19T07:31:05.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="PWn248uwX7QXO2vbCN_f" version="14.6.1" type="github" pages="2">
+  <diagram id="aJE0ZCba9fngmLQNZbVi" name="企业中台-企业实名">
     <mxGraphModel dx="1052" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -134,6 +134,79 @@
         </mxCell>
         <mxCell id="BeReysdKCa9xoEzLnHCb-47" value="JSF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7VS-QbxFnZF96r6ProtT" name="亦企智慧服务港">
+    <mxGraphModel dx="1052" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZON33JZr3bdfnawypAiS-0" />
+        <mxCell id="ZON33JZr3bdfnawypAiS-1" parent="ZON33JZr3bdfnawypAiS-0" />
+        <mxCell id="ZON33JZr3bdfnawypAiS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZON33JZr3bdfnawypAiS-1" source="ZON33JZr3bdfnawypAiS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZON33JZr3bdfnawypAiS-1" source="ZON33JZr3bdfnawypAiS-2" target="ZON33JZr3bdfnawypAiS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZON33JZr3bdfnawypAiS-1" source="ZON33JZr3bdfnawypAiS-2" target="ZON33JZr3bdfnawypAiS-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="180" />
+              <mxPoint x="403" y="180" />
+              <mxPoint x="403" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-2" value="服务港1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-4" value="亦庄党群服务中心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="65" y="50" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZON33JZr3bdfnawypAiS-1" source="ZON33JZr3bdfnawypAiS-5" target="ZON33JZr3bdfnawypAiS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-5" value="服务港2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-6" value="服务港3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-7" value="****" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZON33JZr3bdfnawypAiS-1" source="ZON33JZr3bdfnawypAiS-8" target="ZON33JZr3bdfnawypAiS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-8" value="服务中心（大厅）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-12" value="企业A" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="65" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-13" value="企业B" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="210" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-17" value="环保局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="200" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-18" value="科技局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="360" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-19" value="人事局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="560" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-20" value="****" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="710" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-22" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="290" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZON33JZr3bdfnawypAiS-23" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ZON33JZr3bdfnawypAiS-1">
+          <mxGeometry x="390" y="10" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
